@@ -61,7 +61,7 @@ docker compose up -d
 - 企业私有模型：大模型一体机
 
 NexusGate 支持 20 多个经过测试的模型服务和部署框架，同时支持多个可接入的客户端应用，为您提供灵活性和选择。
-![创建模型层配置](./assets/img/upstream-config.webp)
+![创建模型层配置](./assets/img/upstream-config.webp)  
 *图1-1 创建模型层配置*
 
 
