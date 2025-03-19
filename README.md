@@ -65,7 +65,7 @@ NexusGate 支持 20 多个经过测试的模型服务和部署框架，同时支
 *图1-1 创建模型层配置*
 
 
->*您也可以通过查看下方的示例来详细了解*
+
 
 <details>
 <summary><mark>点击展开示例视频：如何配置模型</mark></summary>
@@ -105,7 +105,6 @@ NexusGate 支持 20 多个经过测试的模型服务和部署框架，同时支
 ![创建带有 API 密钥设置的应用](./assets/img/create-application.webp)
 *图3-1 API 密钥应用设置*
 
->*您也可以通过查看下方的示例来详细了解*
 
 <details>
 <summary><mark>点击展开示例视频：如何创建和管理API密钥</mark></summary>
